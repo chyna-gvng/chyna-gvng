@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Github Stats & Languages:
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=chyna-gvng&show_icons=true&theme=blueberry" />
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chyna-gvng&layout=compact&theme=blueberry" />
+<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=chyna-gvng&show_icons=true&theme=blueberry" />
+<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chyna-gvng&layout=compact&theme=blueberry" />
