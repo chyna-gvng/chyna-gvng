@@ -38,5 +38,13 @@ Here are some ideas to get you started:
 
 <!-- Stats Section -->
 ### Github Stats & Languages:
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=chyna-gvng&show_icons=true&theme=blueberry" />
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chyna-gvng&layout=compact&theme=blueberry" />
+<table width="100%" style="border-radius: 10px">
+  <tr>
+    <td width="47%">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=chyna-gvng&show_icons=true&theme=blueberry" />
+    </td>
+    <td width="47%">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chyna-gvng&layout=compact&theme=blueberry" />
+    </td>
+  </tr>
+</table>
