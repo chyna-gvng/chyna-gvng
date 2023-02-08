@@ -50,3 +50,7 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>
+
+<!-- Spotify Recently Played -->
+### Music:
+![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=d5i48on9ayxbhoyt1bl0v3eji&width=865)
