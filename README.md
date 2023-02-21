@@ -1,6 +1,6 @@
 ## Hello! 👋
 
-I am Chyna. I code, I hack.
+I am Chyna. I code & hack.
 
 <!--
 **chyna-gvng/chyna-gvng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
