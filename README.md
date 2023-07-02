@@ -1,18 +1,5 @@
+<!-- Header: Image -->
 ![](header.png)
-<!--
-**chyna-gvng/chyna-gvng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <!-- Skills Section -->
 ### Skills:
@@ -48,6 +35,6 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-<!-- Spotify Recently Played -->
+<!-- Footer: Spotify Recently Played -->
 ### Music:
 ![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=d5i48on9ayxbhoyt1bl0v3eji&width=865)
